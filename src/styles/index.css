@@ -1,0 +1,14 @@
+:root {
+  --vite-bg: #242424;
+  --vite-a: #646cff;
+  --vite-a-hover: #535bf2;
+  --vite-a-hover-light: #747bff;
+  --vite-btn: #1a1a1a;
+  --vite-btn-hover: #646cff;
+  --vite-btn-light: #f9f9f9;
+}
+
+body {
+  min-width: 320px;
+  min-height: 100vh;
+}
